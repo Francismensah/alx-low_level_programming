@@ -7,7 +7,7 @@ track at ALX Africa.  I am currently learning C.
 
 ## Author :
 
-* **Francis Morkeh Mensah (Solo)** <[Francis Morkeh Mensah](https://github.com/Francismensah)>
+* **Francis Morkeh Mensah** <[Francis Morkeh Mensah](https://github.com/Francismensah)>
 
 ## Acknowledgements 🌍:
 
